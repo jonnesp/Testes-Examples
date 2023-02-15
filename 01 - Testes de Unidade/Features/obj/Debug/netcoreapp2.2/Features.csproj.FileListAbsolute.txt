@@ -1,0 +1,10 @@
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.AssemblyReference.cache
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Projects\Testes de software\Meu código\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb

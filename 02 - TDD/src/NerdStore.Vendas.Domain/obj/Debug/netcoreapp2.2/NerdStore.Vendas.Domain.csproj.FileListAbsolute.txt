@@ -1,0 +1,26 @@
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Testes de software\Meu código\02 - TDD\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb

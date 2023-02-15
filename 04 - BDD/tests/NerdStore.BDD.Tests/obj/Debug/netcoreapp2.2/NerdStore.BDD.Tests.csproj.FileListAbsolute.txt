@@ -1,0 +1,46 @@
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.csproj.AssemblyReference.cache
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.AssemblyInfoInputs.cache
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.AssemblyInfo.cs
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.deps.json
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.runtimeconfig.json
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.runtimeconfig.dev.json
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.pdb
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.csproj.CopyComplete
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.dll
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.pdb
+C:\Projects\Cursos\Testes de Software - DesenvolvedorIO\Testes Automatizados\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.genruntimeconfig.cache
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.csproj.AssemblyReference.cache
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.AssemblyInfoInputs.cache
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.AssemblyInfo.cs
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.pdb
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.deps.json
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.runtimeconfig.json
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.runtimeconfig.dev.json
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.BDD.Tests.pdb
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.csproj.CopyComplete
+C:\Projects\Testes de software\Meu código\04 - BDD\tests\NerdStore.BDD.Tests\obj\Debug\netcoreapp2.2\NerdStore.BDD.Tests.genruntimeconfig.cache
